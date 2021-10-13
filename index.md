@@ -1,8 +1,9 @@
-# Ashtadhyayi Sahajbodh 2 
+# अष्टाध्यायी सहजबोध २
 
-- [Table of Contents](toc.md)
-- [Chapter 1](chapter-01.md)
-- [Chapter 2](chapter-02.md)
-- [Chapter 17](chapter-17.md)
-- [Chapter 18](chapter-18.md)
-- [Chapter 20](chapter-20.md) 
+- [विषयानुक्रमणिका](toc.md)
+- [पाठ १](chapter-01.md)
+- [पाठ २](chapter-02.md)
+- [पाठ ८](chapter-08.md)
+- [पाठ १७](chapter-17.md)
+- [पाठ १८](chapter-18.md)
+- [पाठ २०](chapter-20.md) 
